@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [TeknikServis_ve_UrunTakip Sistemi](https://github.com/Terabithia1572/TeknikServis_ve_Urun_Takip_Sistemi)
+- 🔭 I’m currently working on [Asp.NetCore8.0_RealEstate_Dapper_API_Project](https://github.com/Terabithia1572/Asp.NetCore8.0_RealEstate_Dapper_API_Project)
 
 - 🌱 I’m currently learning **React,Angular**
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Terabithia1572](https://github.com/Terabithia1572)
 
-- 💬 Ask me about **C#,Mvc,.Net Core 6.0**
+- 💬 Ask me about **C#,Mvc,.Net Core 8.0**
 
 - 📫 How to reach me **legendys65@gmail.com**
 
