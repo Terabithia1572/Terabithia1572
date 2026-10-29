@@ -84,21 +84,18 @@ MOBILE DEVELOPMENT       Flutter · Dart · Android integrations
 WEB EXPERIENCES          React · TypeScript · Responsive interfaces
 ```
 
-## 📈 GitHub Contributions
+## 📈 GitHub Activity
+
+Rather than relying on unstable third-party statistics images, this section links to **GitHub's own contribution history**, which remains the authoritative source for activity.
 
 <div align="center">
 
-<a href="https://github.com/Terabithia1572?tab=overview&from=2026-01-01&to=2026-12-31">
-  <img src="assets/github-contributions-2026.png" alt="GitHub contributions and activity overview — 2026 snapshot, 839 contributions in the preceding year as displayed on October 29, 2026" width="100%" />
-</a>
-
-<sub>2026 activity snapshot captured on October 29, 2026 · 839 contributions shown for the preceding year at capture time. This image is not live-updating.</sub>
-
-<br /><br />
-
-[![Live contributions](https://img.shields.io/badge/GitHub-View_Live_Contribution_History-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Terabithia1572?tab=overview)
+[![GitHub activity](https://img.shields.io/badge/GITHUB-View_Contribution_Activity-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Terabithia1572#user-activity-overview)
+[![Public repositories](https://img.shields.io/badge/GITHUB-Browse_Public_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Terabithia1572?tab=repositories)
 
 </div>
+
+> GitHub contribution counts and language percentages can be misleading when projects are private, generated, or contain large vendor assets. I prefer showing the actual work.
 
 ## 🤝 Let's Connect
 
